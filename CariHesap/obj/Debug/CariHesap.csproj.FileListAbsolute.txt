@@ -1,0 +1,30 @@
+C:\Users\Lenovo\source\repos\CariHesap\bin\Debug\CariHesap.exe.config
+C:\Users\Lenovo\source\repos\CariHesap\bin\Debug\CariHesap.exe
+C:\Users\Lenovo\source\repos\CariHesap\bin\Debug\CariHesap.pdb
+C:\Users\Lenovo\source\repos\CariHesap\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\CariHesap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\CariHesap\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\CariHesap\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\CariHesap\obj\Debug\CariHesap.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CariHesap\obj\Debug\CariHesap.Form1.resources
+C:\Users\Lenovo\source\repos\CariHesap\obj\Debug\CariHesap.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\CariHesap\obj\Debug\CariHesap.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\CariHesap\obj\Debug\CariHesap.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\CariHesap\obj\Debug\CariHesap.exe
+C:\Users\Lenovo\source\repos\CariHesap\obj\Debug\CariHesap.pdb
+C:\Users\Lenovo\source\repos\CariHesap\obj\Debug\CariHesap.Form2.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\bin\Debug\CariHesap.exe.config
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\bin\Debug\CariHesap.exe
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\bin\Debug\CariHesap.pdb
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\bin\Debug\EntityFramework.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\bin\Debug\EntityFramework.xml
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\obj\Debug\CariHesap.csprojAssemblyReference.cache
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\obj\Debug\CariHesap.Form1.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\obj\Debug\CariHesap.Form2.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\obj\Debug\CariHesap.Properties.Resources.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\obj\Debug\CariHesap.csproj.GenerateResource.cache
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\obj\Debug\CariHesap.csproj.CopyComplete
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\obj\Debug\CariHesap.exe
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Ness'den\CariHesap\obj\Debug\CariHesap.pdb
